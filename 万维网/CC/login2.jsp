@@ -16,7 +16,7 @@
 <form action="compare.jsp"  method="post">
     <input type="text" name="numone"><br>
     <input type="text" name="numtwo"><br>
-    <input type="submit"  value="提 交">
+    <input type="submit"  value="提交">
 </form>
 </div>
 </body>
