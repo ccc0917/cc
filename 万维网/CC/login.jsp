@@ -3,7 +3,7 @@
   User: 陈冲冲
   Date: 2020/7/10
   Time: 22:20
-  To change this template use File | Settings | File Templates.
+  To change this templte use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
